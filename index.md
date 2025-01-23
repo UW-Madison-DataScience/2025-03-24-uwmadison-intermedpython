@@ -81,18 +81,11 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 
-<h2 id="general">General Information</h2>
-
-{% comment %}
-INTRODUCTION
-
-Edit the general explanatory paragraph below if you want to change
-the pitch.
-{% endcomment %}
+<h2 id="Overview">Overview</h2>
 
 <p>
 <strong>This Course Overview</strong>  
-This course aims to teach a <strong>core set</strong> of established, intermediate-level software development skills and best practices for working as part of a team in a research environment. Python is used as the example programming language. The skills taught are not an exhaustive list but rather a <strong>selective and proven set</strong> of collaborative development techniques that provide a strong foundation for continued learning.
+This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment. Python is used as the example programming language. The skills taught are not an exhaustive list but rather a <strong>selective and proven set</strong> of collaborative development techniques that provide a strong foundation for continued learning.
 </p>
 
 <p>
@@ -112,9 +105,9 @@ Learners in this course will gain <strong>intermediate software engineering skil
 </p>
 
 
-<h3 align="center"><strong>Target Audience</strong></h3>
+<h4 align="left"><strong>Target Audience</strong></h4>
 
-<p align="center">
+<p align="left">
   <strong>This course is for you if:</strong>
 </p>
 
@@ -136,7 +129,7 @@ Learners in this course will gain <strong>intermediate software engineering skil
   </li>
 </ul>
 
-<p align="center">
+<p align="left">
   <strong>This course is not for you if:</strong>
 </p>
 
@@ -147,9 +140,9 @@ Learners in this course will gain <strong>intermediate software engineering skil
   <li>Your software is fully documented, structured, and well-architected.</li>
 </ul>
 
-<h3 align="center"><strong>Learning Objectives</strong></h3>
+<h3 align="left"><strong>Learning Objectives</strong></h3>
 
-<p align="center">
+<p align="left">
   <em>By the end of this course, participants will be able to:</em>
 </p>
 
@@ -163,13 +156,13 @@ Learners in this course will gain <strong>intermediate software engineering skil
 </ul>
 
 
-<h3 align="center"><strong>Prerequisites</strong></h3>
+<h4 align="left"><strong>Prerequisites</strong></h4>
 
-<p align="center">
+<p align="left">
   <em>Participants should meet the following criteria. <a href="learners/quiz.md">Take this short quiz</a> to check your readiness:</em>
 </p>
 
-<h4 align="center"><strong>Git</strong></h4>
+<h5 align="left"><strong>Git</strong></h5>
 
 <ul>
   <li>You understand the concept of version control.</li>
@@ -178,19 +171,21 @@ Learners in this course will gain <strong>intermediate software engineering skil
   <li>Optional: You’ve compared file versions or ignored specific files.</li>
 </ul>
 
-<h4 align="center"><strong>Python</strong></h4>
+<h5 align="left"><strong>Python</strong></h5>
 
 <ul>
   <li>You have basic programming knowledge, including variables, lists, conditionals, functions, and importing libraries.</li>
   <li>You’ve written Python scripts or Jupyter notebooks to solve domain-specific problems.</li>
 </ul>
 
-<h4 align="center"><strong>Shell</strong></h4>
+<h5 align="left"><strong>Shell</left></h5>
 
 <ul>
   <li>You’ve used a command line interface (e.g., Bash) to navigate a UNIX-style file system and run commands.</li>
   <li>Optional: You’ve redirected inputs/outputs from commands.</li>
 </ul> 
+
+<h2 id="general">General Information</h2>
 
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
