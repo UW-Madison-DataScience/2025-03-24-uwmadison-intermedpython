@@ -85,25 +85,8 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <p>
 <strong>This Course Overview</strong>  
-This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment. Python is used as the example programming language. The skills taught are not an exhaustive list but rather a <strong>selective and proven set</strong> of collaborative development techniques that provide a strong foundation for continued learning.
+This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment. Python is used as the example programming language. The skills taught are not an exhaustive list but rather a <strong>selective and proven set</strong> of collaborative development techniques that provide a strong foundation for continued learning. Learners in this course will gain <strong>intermediate software engineering skills</strong> to design more robust, maintainable software, moving beyond simple scripts to code that considers the full software lifecycle, stakeholder needs, team collaboration, and structured development processes.
 </p>
-
-<p>
-<strong>Who is this course for?</strong>  
-A <strong>typical learner</strong> may be someone working in a research setting, writing code regularly, and possessing <strong>basic software development skills</strong>—either self-taught or gained from beginner courses like the <a href="https://software-carpentry.org/lessons">Software Carpentry Python course</a>.  
-They have been applying these skills in their domain of work for approximately six months or longer. As their projects grow larger and involve more collaborators and stakeholders (e.g., users), they may face challenges such as:
-</p>
-
-<ul>
-  <li>Increasing complexity of software, requiring more collaborative effort</li>
-  <li>Software moving beyond a small group to include more users, necessitating added features and better usability</li>
-  <li>Growing <a href="https://en.wikipedia.org/wiki/Technical_debt">technical debt</a>, which complicates the addition of new functionality while maintaining existing work</li>
-</ul>
-
-<p>
-Learners in this course will gain <strong>intermediate software engineering skills</strong> to design more robust, maintainable software, moving beyond simple scripts to code that considers the full software lifecycle, stakeholder needs, team collaboration, and structured development processes.
-</p>
-
 
 <h4 align="left"><strong>Target Audience</strong></h4>
 
