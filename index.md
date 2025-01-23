@@ -84,7 +84,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <h2 id="Overview">Overview</h2>
 
 <p>
-This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment. Python is used as the example programming language. The skills taught are not an exhaustive list (see learning objectives below) but rather a selective and proven set of collaborative development techniques that provide a strong foundation for continued learning. Learners in this course will gain <strong>intermediate software engineering skills</strong> to design more robust, maintainable software, moving beyond simple scripts to code that considers the full software lifecycle, stakeholder needs, team collaboration, and structured development processes.
+This <a href="https://carpentries-incubator.github.io/python-intermediate-development/">lesson</a> aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment. Python is used as the example programming language. The skills taught are not an exhaustive list (see learning objectives below) but rather a selective and proven set of collaborative development techniques that provide a strong foundation for continued learning. Learners in this course will gain <strong>intermediate software engineering skills</strong> to design more robust, maintainable software, moving beyond simple scripts to code that considers the full software lifecycle, stakeholder needs, team collaboration, and structured development processes.
 </p>
 
 <h4 align="left"><strong>Target Audience</strong></h4>
@@ -136,6 +136,8 @@ This course aims to teach a core set of established, intermediate-level software
   <li>Prepare and release software for reuse by others</li>
   <li>Use agile techniques to manage feedback and software improvement</li>
 </ul>
+
+Check the <a href="https://carpentries-incubator.github.io/python-intermediate-development/">lesson website</a> to preview the full schedule of topics.
 
 
 <h4 align="left"><strong>Prerequisites</strong></h4>
