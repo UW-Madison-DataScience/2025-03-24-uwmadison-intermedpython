@@ -102,12 +102,7 @@ This <a href="https://carpentries-incubator.github.io/python-intermediate-develo
       <li>How to prepare your software for use by others</li>
     </ul>
   </li>
-  <li>You’re comfortable with:
-    <ul>
-      <li>Basic Python programming and applying it regularly in your work</li>
-      <li>Using Git for basic version control</li>
-      <li>Working with the command line interface (shell)</li>
-    </ul>
+  <li>You meet the prerequisites detailed below for Python, Git, and Shell.
   </li>
 </ul>
 
