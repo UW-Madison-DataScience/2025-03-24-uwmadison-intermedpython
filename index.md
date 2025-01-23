@@ -91,17 +91,107 @@ the pitch.
 {% endcomment %}
 
 <p>
-<strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
-href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
-<a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
-helpers, and supporters who share a mission to teach foundational computational and data science
-skills to researchers.
-<p align="center">
-  <em>
-  <strong>Want to learn more and stay engaged with The Carpentries?</strong> Carpentries Clippings is The Carpentries' biweekly newsletter, where we share community news, community job postings, and more.
-Sign up to receive future editions and read our full archive: <a href="https://carpentries.org/newsletter/">https://carpentries.org/newsletter/</a>
-  </em>
+<strong>This Course Overview</strong>  
+This course aims to teach a <strong>core set</strong> of established, intermediate-level software development skills and best practices for working as part of a team in a research environment. Python is used as the example programming language. The skills taught are not an exhaustive list but rather a <strong>selective and proven set</strong> of collaborative development techniques that provide a strong foundation for continued learning.
 </p>
+
+<p>
+<strong>Who is this course for?</strong>  
+A <strong>typical learner</strong> may be someone working in a research setting, writing code regularly, and possessing <strong>basic software development skills</strong>—either self-taught or gained from beginner courses like the <a href="https://software-carpentry.org/lessons">Software Carpentry Python course</a>.  
+They have been applying these skills in their domain of work for approximately six months or longer. As their projects grow larger and involve more collaborators and stakeholders (e.g., users), they may face challenges such as:
+</p>
+
+<ul>
+  <li>Increasing complexity of software, requiring more collaborative effort</li>
+  <li>Software moving beyond a small group to include more users, necessitating added features and better usability</li>
+  <li>Growing <a href="https://en.wikipedia.org/wiki/Technical_debt">technical debt</a>, which complicates the addition of new functionality while maintaining existing work</li>
+</ul>
+
+<p>
+Learners in this course will gain <strong>intermediate software engineering skills</strong> to design more robust, maintainable software, moving beyond simple scripts to code that considers the full software lifecycle, stakeholder needs, team collaboration, and structured development processes.
+</p>
+
+
+<h3 align="center"><strong>Target Audience</strong></h3>
+
+<p align="center">
+  <strong>This course is for you if:</strong>
+</p>
+
+<ul>
+  <li>You’ve been writing software for a while, possibly for others, but it’s undocumented or unstructured.</li>
+  <li>You want to learn:
+    <ul>
+      <li>Intermediate software engineering techniques and tools</li>
+      <li>How to collaborate effectively with others to develop software</li>
+      <li>How to prepare your software for use by others</li>
+    </ul>
+  </li>
+  <li>You’re comfortable with:
+    <ul>
+      <li>Basic Python programming and applying it regularly in your work</li>
+      <li>Using Git for basic version control</li>
+      <li>Working with the command line interface (shell)</li>
+    </ul>
+  </li>
+</ul>
+
+<p align="center">
+  <strong>This course is not for you if:</strong>
+</p>
+
+<ul>
+  <li>You’re new to writing software (try the <a href="https://software-carpentry.org/lessons">Software Carpentry course</a> or a beginner Python course first).</li>
+  <li>You’ve learned basic programming but haven’t applied it in real-world projects for at least six months.</li>
+  <li>Your projects already align with the <a href="index.md#learning-objectives-for-the-workshop">learning objectives</a> of this course and its individual episodes.</li>
+  <li>Your software is fully documented, structured, and well-architected.</li>
+</ul>
+
+<h3 align="center"><strong>Learning Objectives</strong></h3>
+
+<p align="center">
+  <em>By the end of this course, participants will be able to:</em>
+</p>
+
+<ul>
+  <li>Set up and use a development environment with source code management tools for collaborative development</li>
+  <li>Automate code testing using a framework, parameterization, and continuous integration</li>
+  <li>Apply programming paradigms and design techniques to create robust, extensible software</li>
+  <li>Understand and use code review processes to improve software quality</li>
+  <li>Prepare and release software for reuse by others</li>
+  <li>Use agile techniques to manage feedback and software improvement</li>
+</ul>
+
+
+<h3 align="center"><strong>Prerequisites</strong></h3>
+
+<p align="center">
+  <em>Participants should meet the following criteria. <a href="learners/quiz.md">Take this short quiz</a> to check your readiness:</em>
+</p>
+
+<h4 align="center"><strong>Git</strong></h4>
+
+<ul>
+  <li>You understand the concept of version control.</li>
+  <li>You’ve configured Git and created a local repository.</li>
+  <li>You know how to clone repositories, add/commit changes, and push/pull to/from a remote repository.</li>
+  <li>Optional: You’ve compared file versions or ignored specific files.</li>
+</ul>
+
+<h4 align="center"><strong>Python</strong></h4>
+
+<ul>
+  <li>You have basic programming knowledge, including variables, lists, conditionals, functions, and importing libraries.</li>
+  <li>You’ve written Python scripts or Jupyter notebooks to solve domain-specific problems.</li>
+</ul>
+
+<h4 align="center"><strong>Shell</strong></h4>
+
+<ul>
+  <li>You’ve used a command line interface (e.g., Bash) to navigate a UNIX-style file system and run commands.</li>
+  <li>Optional: You’ve redirected inputs/outputs from commands.</li>
+</ul> 
+
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
 {% elsif site.carpentry == "dc" %}
