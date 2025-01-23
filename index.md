@@ -178,7 +178,7 @@ Learners in this course will gain <strong>intermediate software engineering skil
   <li>You’ve written Python scripts or Jupyter notebooks to solve domain-specific problems.</li>
 </ul>
 
-<h5 align="left"><strong>Shell</left></h5>
+<h5 align="left"><strong>Shell</strong></h5>
 
 <ul>
   <li>You’ve used a command line interface (e.g., Bash) to navigate a UNIX-style file system and run commands.</li>
