@@ -143,7 +143,7 @@ Check the <a href="https://carpentries-incubator.github.io/python-intermediate-d
 <h4 align="left"><strong>Prerequisites</strong></h4>
 
 <p align="left">
-  <em>Participants should meet the following criteria. <a href="learners/quiz.md">Take this short quiz</a> to check your readiness:</em>
+  <em>Participants should meet the following criteria. <a href="https://carpentries-incubator.github.io/python-intermediate-development/quiz.html">Take this short quiz</a> to check your readiness:</em>
 </p>
 
 <h5 align="left"><strong>Git</strong></h5>
