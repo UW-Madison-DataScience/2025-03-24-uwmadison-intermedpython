@@ -150,6 +150,8 @@ Check the <a href="https://carpentries-incubator.github.io/python-intermediate-d
   <li>Optional: You’ve redirected inputs/outputs from commands.</li>
 </ul> 
 
+<hr/>
+
 <h2 id="general">General Information</h2>
 
 {% if site.carpentry == "swc" %}
