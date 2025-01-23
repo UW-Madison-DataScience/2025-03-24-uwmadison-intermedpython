@@ -123,7 +123,7 @@ This course aims to teach a core set of established, intermediate-level software
   <li>Your software is fully documented, structured, and well-architected.</li>
 </ul>
 
-<h3 align="left"><strong>Learning Objectives</strong></h3>
+<h4 align="left"><strong>Learning Objectives</strong></h4>
 
 <p align="left">
   <em>By the end of this course, participants will be able to:</em>
