@@ -84,8 +84,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <h2 id="Overview">Overview</h2>
 
 <p>
-<strong>This Course Overview</strong>  
-This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment. Python is used as the example programming language. The skills taught are not an exhaustive list but rather a <strong>selective and proven set</strong> of collaborative development techniques that provide a strong foundation for continued learning. Learners in this course will gain <strong>intermediate software engineering skills</strong> to design more robust, maintainable software, moving beyond simple scripts to code that considers the full software lifecycle, stakeholder needs, team collaboration, and structured development processes.
+This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment. Python is used as the example programming language. The skills taught are not an exhaustive list (see learning objectives below) but rather a selective and proven set of collaborative development techniques that provide a strong foundation for continued learning. Learners in this course will gain <strong>intermediate software engineering skills</strong> to design more robust, maintainable software, moving beyond simple scripts to code that considers the full software lifecycle, stakeholder needs, team collaboration, and structured development processes.
 </p>
 
 <h4 align="left"><strong>Target Audience</strong></h4>
