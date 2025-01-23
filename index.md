@@ -87,6 +87,23 @@ displayed if the 'eventbrite' field in the header is not set.
 This <a href="https://carpentries-incubator.github.io/python-intermediate-development/">lesson</a> aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment. Python is used as the example programming language. The skills taught are not an exhaustive list (see learning objectives below) but rather a selective and proven set of collaborative development techniques that provide a strong foundation for continued learning. Learners in this lesson will gain <strong>intermediate software engineering skills</strong> to design more robust, maintainable software, moving beyond simple scripts to code that considers the full software lifecycle, stakeholder needs, team collaboration, and structured development processes.
 </p>
 
+<h4 align="left"><strong>Learning Objectives</strong></h4>
+
+<p align="left">
+  <em>By the end of this course, participants will be able to:</em>
+</p>
+
+<ul>
+  <li>Set up and use a development environment with source code management tools for collaborative development</li>
+  <li>Automate code testing using a framework, parameterization, and continuous integration</li>
+  <li>Apply programming paradigms and design techniques to create robust, extensible software</li>
+  <li>Understand and use code review processes to improve software quality</li>
+  <li>Prepare and release software for reuse by others</li>
+  <li>Use agile techniques to manage feedback and software improvement</li>
+</ul>
+
+Check the <a href="https://carpentries-incubator.github.io/python-intermediate-development/">lesson website</a> to preview the full schedule of topics.
+
 <h4 align="left"><strong>Target Audience & Prerequisites</strong></h4>
 
 <p align="left">
@@ -132,27 +149,6 @@ This <a href="https://carpentries-incubator.github.io/python-intermediate-develo
   <li>You’ve used a command line interface (e.g., Bash) to navigate a UNIX-style file system and run commands.</li>
   <li>Optional: You’ve redirected inputs/outputs from commands.</li>
 </ul> 
-
-
-<h4 align="left"><strong>Learning Objectives</strong></h4>
-
-<p align="left">
-  <em>By the end of this course, participants will be able to:</em>
-</p>
-
-<ul>
-  <li>Set up and use a development environment with source code management tools for collaborative development</li>
-  <li>Automate code testing using a framework, parameterization, and continuous integration</li>
-  <li>Apply programming paradigms and design techniques to create robust, extensible software</li>
-  <li>Understand and use code review processes to improve software quality</li>
-  <li>Prepare and release software for reuse by others</li>
-  <li>Use agile techniques to manage feedback and software improvement</li>
-</ul>
-
-Check the <a href="https://carpentries-incubator.github.io/python-intermediate-development/">lesson website</a> to preview the full schedule of topics.
-
-
-
 
 <h2 id="general">General Information</h2>
 
