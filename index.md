@@ -114,7 +114,7 @@ This <a href="https://carpentries-incubator.github.io/python-intermediate-develo
 <h5 align="left"><strong>Prerequisites</strong></h5>
 
 <p align="left">
-  <em>Participants should meet the following criteria. <a href="https://carpentries-incubator.github.io/python-intermediate-development/quiz.html">Take this short quiz</a> to check your readiness:</em>
+  <strong>Participants should meet the following criteria. <a href="https://carpentries-incubator.github.io/python-intermediate-development/quiz.html">Take this short quiz</a> to check your readiness:</strong>
 </p>
 
 <h5 align="left"><strong>Git</strong></h5>
